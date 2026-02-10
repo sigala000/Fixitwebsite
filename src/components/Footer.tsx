@@ -48,7 +48,7 @@ export default function Footer() {
                             </li>
                             <li className="flex items-center gap-3">
                                 <MapPin className="size-4 text-primary" />
-                                Douala, Cameroon
+                                Yaounde,Cameroon
                             </li>
                             <li className="flex items-center gap-6 pt-4">
                                 <a href="#" className="text-text-secondary hover:text-white transition-colors"><Facebook size={20} /></a>

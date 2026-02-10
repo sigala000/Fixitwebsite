@@ -44,13 +44,13 @@ export default function MissionContact() {
                             <div className="size-10 rounded-full bg-white/5 flex items-center justify-center">
                                 <Phone className="size-5" />
                             </div>
-                            <span className="font-medium">+237 6XX XXX XXX</span>
+                            <span className="font-medium">+237 670650364/ 681056932</span>
                         </div>
                         <div className="flex items-center gap-4 text-text-secondary">
                             <div className="size-10 rounded-full bg-white/5 flex items-center justify-center">
                                 <MapPin className="size-5" />
                             </div>
-                            <span className="font-medium">Douala, Cameroon</span>
+                            <span className="font-medium">Yaounde, Cameroon</span>
                         </div>
                     </div>
 
