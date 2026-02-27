@@ -1,0 +1,218 @@
+{
+    "nav": {
+        "howItWorks": "How it Works",
+        "services": "Services",
+        "join": "Join as Artisan",
+        "trust": "Trust & Safety",
+        "download": "Download App",
+        "about": "About Us"
+    },
+    "hero": {
+        "badge": "CAMEROON'S #1 ARTISAN PLATFORM",
+        "title1": "Reliable Artisans",
+        "title2": "Fast & Secure",
+        "subtitle": "Find verified artisans you can trust, from masonry to IT services, with quick, secure, and transparent connections.",
+        "cta": "Find an Artisan",
+        "stats": {
+            "verified": "Verified Artisans",
+            "rating": "Average Rating",
+            "completion": "Tasks Completed"
+        }
+    },
+    "about": {
+        "intro": {
+            "title": "Building Trust. Empowering Skill. Transforming Local Services.",
+            "p1": "In many communities, finding a reliable artisan is still based on guesswork, word-of-mouth, or chance. Skilled professionals struggle to get visibility. Clients struggle to find trusted hands. Time is lost. Money is wasted. Trust is broken.",
+            "p2": "Finding a good artisan shouldn’t feel like gambling.",
+            "p3": "We’ve all been there, asking friends for contacts, calling numbers that don’t go through, waiting for someone who never shows up, or paying for work that doesn’t meet expectations. At the same time, thousands of skilled artisans wake up every morning ready to work but struggle to find steady clients.",
+            "p4": "FIXIT was created to solve this simple but powerful problem: connecting people who need work done with people who are ready to do it safely, transparently, and professionally.",
+            "p5": "FIXIT was created to change that.",
+            "p6": "We are building a structured, technology-driven ecosystem that connects verified artisans to clients in a transparent, efficient, and secure way. From electricians and plumbers to carpenters, painters, and technicians, FIXIT exists to bring professionalism, accountability, and opportunity into the local service economy."
+        },
+        "why": {
+            "title": "Why We Exist",
+            "p1": "Africa has talent. Cameroon has talent. What has been missing is structure, trust, and accessibility.",
+            "p2": "FIXIT was founded on one belief:",
+            "p3": "Skilled work deserves visibility. Clients deserve reliability.",
+            "p4": "We are not just creating an app. We are building infrastructure for the informal service sector."
+        },
+        "what": {
+            "title": "What We Do",
+            "p1": "FIXIT connects:",
+            "l1": "Homeowners to trusted service providers",
+            "l2": "Businesses to qualified technicians",
+            "l3": "Skilled artisans to consistent job opportunities",
+            "p2": "Through digital verification, ratings, secure payments, and clear job tracking, we are creating a marketplace where both clients and artisans feel protected and respected.",
+            "p3": "FIXIT gives clients access to verified artisans, clear pricing, real reviews, and structured communication. It gives artisans visibility, credibility, and consistent opportunities to grow their income.",
+            "p4": "Whether it’s fixing a leaking pipe, wiring a house, painting a room, installing tiles, repairing a generator, or handling a full construction project — FIXIT makes the process easier, faster, and more reliable."
+        },
+        "mission": {
+            "title": "Our Mission",
+            "p1": "As more people across Africa use smartphones and the internet every day, finding reliable service providers online is becoming the new normal. FIXIT is built to make this easier, by understanding how our local markets work and using smart technology to connect trusted artisans with people who need their services. Hence, we aim to professionalize and digitize local artisan services by creating a platform that promotes trust, transparency, and economic empowerment."
+        },
+        "vision": {
+            "title": "Our Vision",
+            "p1": "To become Africa’s leading service-connection platform — setting a new standard for how skilled labor is discovered, trusted, and rewarded"
+        },
+        "commitment": {
+            "title": "Our Commitment",
+            "l1": "Verified professionals",
+            "l2": "Transparent processes",
+            "l3": "Fair earning opportunities",
+            "l4": "Strong customer protection",
+            "l5": "Continuous improvement",
+            "p1": "We believe technology should solve real problems. FIXIT is our solution to one of the most overlooked yet essential sectors of everyday life."
+        },
+        "closing": {
+            "title": "This Is More Than an App",
+            "p1": "FIXIT is about dignity in skilled labor. It is about giving artisans the tools to grow. It is about giving clients confidence before work even begins.",
+            "p2": "We are building the future of trusted local services.",
+            "p3": "And this is only the beginning."
+        }
+    },
+    "howItWorks": {
+        "title": "How FIXIT Works",
+        "subtitle": "Whether you need a repair or want to offer your skills, we've made the process seamless.",
+        "forClients": "For Clients",
+        "forArtisans": "For Artisans",
+        "clientSteps": {
+            "step1": {
+                "title": "1. Request",
+                "desc": "Select a service and describe your problem."
+            },
+            "step2": {
+                "title": "2. Match",
+                "desc": "Get matched with verified artisans nearby."
+            },
+            "step3": {
+                "title": "3. Choose",
+                "desc": "Compare profiles, prices, and reviews."
+            },
+            "step4": {
+                "title": "4. Done",
+                "desc": "Hire securely and get the job done."
+            }
+        },
+        "artisanSteps": {
+            "step1": {
+                "title": "1. Create Profile",
+                "desc": "Showcase your skills and previous work."
+            },
+            "step2": {
+                "title": "2. Get Verified",
+                "desc": "Complete our rigorous vetting process."
+            },
+            "step3": {
+                "title": "3. Start Earning",
+                "desc": "Receive job requests and earn securely."
+            },
+            "step4": {
+                "title": "4. Grow Business",
+                "desc": "Build your reputation and grow your client base."
+            }
+        }
+    },
+    "services": {
+        "title": "Professional Services",
+        "subtitle": "Wide range of expert solutions for all your construction and maintenance needs.",
+        "items": {
+            "masonry": "Masonry",
+            "painting": "Painting",
+            "welding": "Welding",
+            "it": "IT Services",
+            "electrical": "Electrical",
+            "plumbing": "Plumbing",
+            "carpentry": "Carpentry",
+            "mechanical": "Mechanical"
+        }
+    },
+    "trust": {
+        "title1": "Trust is our currency.",
+        "title2": "Safety is our promise.",
+        "subtitle": "We take safety seriously. Every artisan on FIXIT undergoes a rigorous vetting process so you can hire with peace of mind.",
+        "vetted": "Vetted & Verified",
+        "features": {
+            "checks": {
+                "title": "ID & Background Checks",
+                "desc": "Every artisan on FIXIT undergoes a rigorous identity verification and background vetting process."
+            },
+            "skills": {
+                "title": "Skill Verification & Testing",
+                "desc": "We test and verify the technical proficiency of our artisans to ensure high-quality service."
+            },
+            "gps": {
+                "title": "Real-time GPS Tracking",
+                "desc": "Track your artisan's arrival in real-time for improved security and convenience."
+            },
+            "dispute": {
+                "title": "Dispute Resolution Support",
+                "desc": "Our dedicated support team is always available to help resolve any issues or disputes."
+            }
+        }
+    },
+    "cta": {
+        "title": "Download the FIXIT app today and experience the future of home services in Cameroon.",
+        "appStore": "Download on the",
+        "googlePlay": "Get it on"
+    },
+    "mission": {
+        "title": "Our Mission",
+        "description": "FIXIT provides a platform for every skilled artisan to thrive and for every client to find reliable help. We are formalizing the skilled labor market in Cameroon, one verified connection at a time.",
+        "stats": {
+            "artisans": "Artisans",
+            "cities": "Cities",
+            "satisfaction": "Satisfaction"
+        }
+    },
+    "contact": {
+        "title": "Get in Touch",
+        "cta": "Send us a message"
+    },
+    "faq": {
+        "title": "Frequently Asked Questions",
+        "subtitle": "Everything you need to know about FIXIT and how we work.",
+        "questions": {
+            "q1": {
+                "question": "How do I find a reliable artisan?",
+                "answer": "Simply download the FIXIT app, select the service you need, and we'll match you with verified artisans in your area. You can then review their profiles, ratings, and previous work."
+            },
+            "q2": {
+                "question": "Are all artisans verified?",
+                "answer": "Yes. Every artisan on our platform undergoes a rigorous vetting process, including identity verification, background checks, and technical skill assessments."
+            },
+            "q3": {
+                "question": "How much does it cost to use FIXIT?",
+                "answer": "Downloading and browsing the app is completely free. Prices for services are transparently negotiated between you and the artisan, with secure payment options available within the app."
+            },
+            "q4": {
+                "question": "What if I'm not satisfied with the work?",
+                "answer": "FIXIT provides dispute resolution support. If you're unhappy with a service, you can contact our support team through the app, and we'll help mediate and find a solution."
+            },
+            "q5": {
+                "question": "How can I join as an artisan?",
+                "answer": "You can download the FIXIT Pro app and follow the registration process. You'll need to provide your credentials and undergo our verification process to start receiving job requests."
+            }
+        }
+    },
+    "footer": {
+        "description": "Connecting Cameroon's best artisans with people who need quality work done. Reliable, verified, and professional.",
+        "platform": {
+            "title": "Platform",
+            "howItWorks": "How it Works",
+            "findArtisan": "Find an Artisan",
+            "services": "All Services"
+        },
+        "company": {
+            "title": "Company",
+            "about": "About Us",
+            "join": "Join as Artisan",
+            "trust": "Trust & Safety"
+        },
+        "legal": {
+            "title": "Legal",
+            "privacy": "Privacy Policy",
+            "terms": "Terms of Service"
+        },
+        "rights": "All rights reserved."
+    }
+}
